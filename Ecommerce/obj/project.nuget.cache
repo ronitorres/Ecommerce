@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B5sFa0UmxmSOA2qPtyVZ3Lz0qja7Ah110auUMsLVsk/xGKFfGqPsByfQNBjkBxXBD1YAJ/czVKFch5NCDdiLSg==",
+  "dgSpecHash": "6ax6r9BNtK7j9scMQ+dk583Rpey1h5QdHsRNVfDXEJri+iK+7qvYGv0FqKCeKm9X5ygh/SZCL+r+lUbwAZyeGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\roni.silva\\Desktop\\Processo Superar Desenvolvedor Csharp\\Ecommerce MaximaTech\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
+  "projectFilePath": "C:\\Users\\roni.silva\\Desktop\\Processo Superar Desenvolvedor Csharp\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\roni.silva\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\roni.silva\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

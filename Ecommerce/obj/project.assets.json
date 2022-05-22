@@ -11883,11 +11883,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\roni.silva\\Desktop\\Processo Superar Desenvolvedor Csharp\\Ecommerce MaximaTech\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
+      "projectUniqueName": "C:\\Users\\roni.silva\\Desktop\\Processo Superar Desenvolvedor Csharp\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
       "projectName": "Ecommerce",
-      "projectPath": "C:\\Users\\roni.silva\\Desktop\\Processo Superar Desenvolvedor Csharp\\Ecommerce MaximaTech\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
+      "projectPath": "C:\\Users\\roni.silva\\Desktop\\Processo Superar Desenvolvedor Csharp\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
       "packagesPath": "C:\\Users\\roni.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\roni.silva\\Desktop\\Processo Superar Desenvolvedor Csharp\\Ecommerce MaximaTech\\Ecommerce\\Ecommerce\\Ecommerce\\obj\\",
+      "outputPath": "C:\\Users\\roni.silva\\Desktop\\Processo Superar Desenvolvedor Csharp\\Ecommerce\\Ecommerce\\Ecommerce\\Ecommerce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
